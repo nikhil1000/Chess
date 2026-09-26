@@ -1,0 +1,6 @@
+{
+  "name": "Chess Arena",
+  "description": "A dark-fantasy 3D Chess Arena with a built-in Minimax Alpha-Beta AI opponent, PGN move history, and high-impact cinematic 3D kill animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

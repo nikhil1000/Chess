@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Chess Arena</string>
+    <string name="arena_subtitle">Think  ·  Move  ·  Conquer</string>
+    <string name="arena_quote_top">Good moves win games, great moves build legends.</string>
+    <string name="arena_quote_bottom">Strategy is the art of turning possibilities into victories.</string>
+    <string name="player_you">You</string>
+    <string name="player_ai">AI</string>
+    <string name="color_white">White</string>
+    <string name="color_black">Black</string>
+    <string name="captured_pieces">Captured Pieces</string>
+    <string name="game_controls">Game Controls</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="undo_move">Undo Move</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="game_status">Game Status</string>
+    <string name="move_history">Move History</string>
+    <string name="game_over">Game Over</string>
+    <string name="game_over_placeholder">Checkmate, Stalemate or Resignation will appear here.</string>
+    <string name="pawn_promotion">Pawn Promotion</string>
+    <string name="pawn_promotion_subtitle">Choose a piece to promote your pawn</string>
+    <string name="confirm">Confirm</string>
+    <string name="captured_piece_animation">Captured Piece Animation</string>
+    <string name="captured_piece_animation_sub">Epic battles. Beautifully animated.</string>
+    <string name="view_mode_3d">3D Arena</string>
+    <string name="view_mode_2d">2D Tactical</string>
+    <string name="match_archives">Arena Archives</string>
+    <string name="hint_move">Tactical Hint</string>
+</resources>
